@@ -21,4 +21,10 @@ for(int x : range(1,n)) {};
 for(int x : range(1,n,2)) {};
 for(double x : range<double>(n)) {};
 ```
+### Tic-Tac-Toe
+
+Stored in `tic-tac-toe.cpp`
+
+Tic-tac-toe game realization for two players.
+
 ### The next project
